@@ -20,7 +20,6 @@ body {
 }
 
 .personagens-slider {
-    /* background-color: aquamarine; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,7 +28,6 @@ body {
 }
 
 .lista-personagens {
-    /* background-color: orange; */
     width: 330px;
     height: 520px;
     position: relative;
@@ -58,7 +56,6 @@ body {
 
 .cartao {
     opacity: 0;
-    /* background-color: blue; */
     height: 100%;
     position: absolute;
     padding: 12px;
